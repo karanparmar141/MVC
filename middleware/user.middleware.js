@@ -9,4 +9,6 @@ const check = (req , res , next) =>{
     }
 }
 
-module.exports = check
+
+
+module.exports = {check }
